@@ -3,6 +3,10 @@
 This project uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the "Individual household electric power consumption Data Set" which I have made available in this repo.
 
 Description: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
+•	Led a team of 5 members to provide a solution to a problem of rising data volume and velocity in a cost effective way.
+•	Designing and algorithm part was a solo operation as team leader.
+•	Rest part of coding, testing, report and presentation was divided and performed in a collective manner.
+•	On time delivery was made with still 2 days left to deadline.  
 
 The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
 
